@@ -9,4 +9,8 @@ Energy Demand Forecaster is part of the [Zion App Network](https://ziontechgroup
 ## Related revenue protection apps
 [Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/)
 
+## 🌟 Sustainability & Infrastructure Suite (GitHub)
+- [AI Carbon Tracker](https://github.com/Zion-support/ai-carbon-tracker) · [AI Backup & Recovery](https://github.com/Zion-support/ai-backup-recovery) · [AI Edge Deployer](https://github.com/Zion-support/ai-edge-deployer) · [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) · [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor)
+- Suite spotlight: [sustainability-infrastructure-suite.md](https://github.com/Zion-support/zion-network/blob/main/spotlights/sustainability-infrastructure-suite.md)
+
 © 2026 Zion Tech Group · https://ziontechgroup.com
