@@ -1,21 +1,12 @@
-# Zion App Network — Interlinks
+# Zion App Network — Interlinks for energy-demand-forecaster
 
-This app is part of the **Zion Tech Group App Network** (800+ AI-powered business apps).
+Energy Demand Forecaster is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-- Network hub: https://zion-support.github.io/zion-app-network/
-- Directory & catalog: https://github.com/Zion-support/zion-app-network
-- Homepage: https://ziontechgroup.com/
-- Latest releases & spotlights: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+- Live app: https://ziontechgroup.com/energy-demand-forecaster/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 53 spotlight (Revenue Protection & Operations Signals): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
 
-## Related apps
-- [AI Energy Optimizer](https://ziontechgroup.com/ai-energy-optimizer/)
-- [Energy Usage Optimizer](https://ziontechgroup.com/energy-usage-optimizer/)
-- [AI Carbon Tracker](https://ziontechgroup.com/ai-carbon-tracker/)
-- [Energy SLA Reporter](https://ziontechgroup.com/energy-sla-reporter/)
-- [Green Cloud Picker](https://ziontechgroup.com/green-cloud-picker/)
-- [AI Energy & Utilities Suite](https://ziontechgroup.com/ai-energy-utilities-suite/)
+## Related revenue protection apps
+[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Supplier Risk Radar](https://ziontechgroup.com/supplier-risk-radar/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/)
 
-## About this app
-**Energy Demand Forecaster** — live at https://ziontechgroup.com/energy-demand-forecaster/ — source: https://github.com/Zion-support/energy-demand-forecaster
-
-Contact: commercial@ziontechgroup.com
+© 2026 Zion Tech Group · https://ziontechgroup.com
